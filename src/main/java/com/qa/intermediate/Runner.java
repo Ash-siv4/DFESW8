@@ -11,6 +11,9 @@ public class Runner {
 
 	public static void main(String[] args) {
 		
+		//----------------------- GENERICS
+		
+		//Example of a class using generics in the Java library:
 //		ArrayList<Integer> abc =  new ArrayList<>();
 		
 		Person<String, Integer> a = new Person<String, Integer>("ASH", 24);
@@ -19,9 +22,7 @@ public class Runner {
 //		Person b = new Person();
 //		System.out.println(b.getName());
 		
-		
-		// TODO Auto-generated method stub
-
+		//----------------------- ENUMS
 		System.out.println(Planets.EARTH.calc());
 
 		String str = "VENUS";
