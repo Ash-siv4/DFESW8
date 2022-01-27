@@ -5,7 +5,8 @@ public class Runner {
 	public static void main(String[] args) {
 
 		HashSets.hashSet();
-//		HashMaps.hashMap();
+		HashMaps.hashMap();
+//		MorseTranslator.createMap();
 		
 	}
 
