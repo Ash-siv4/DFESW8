@@ -4,3 +4,8 @@
 
 - Enums
 - Generics
+- Hash sets
+- Hash maps
+- Optionals
+- Lambdas
+- Streams
